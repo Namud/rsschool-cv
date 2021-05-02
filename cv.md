@@ -4,7 +4,7 @@
 3. My goal is to be  software engineer. In particular, become an android developer
 Knowladge, experience and teamwork is very important for me
 4. Kotlin, java, javascript - base level. Markup stack(html, css).
-5. Last code  example  in gitlab repository: https://gitlab.com/duman20/rickandmorty
+5. Last code  example  in gitlab repository: https://gitlab.com/duman20/rickandmorty - work with api and UI
 6. I have some experience in markup like create landings, support websites. Samples in repository:
    https://gitlab.com/duman20/vines_markup.
    And i work currently in company like  junior android developer. I have 4 month experience in  this position
