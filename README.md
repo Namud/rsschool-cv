@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://Namud.github.io/rsschool-cv/cv
